@@ -35,6 +35,4 @@
    - Mantener el contenido actualizado con buenas prácticas sostenibles.
    - Realizar mejoras continuas en accesibilidad y rendimiento.
 
-+---------------------------------------------------------------+
-|  Fin de la documentación sobre la página sostenible en GitHub |
-+---------------------------------------------------------------+
+
