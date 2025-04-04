@@ -1,6 +1,6 @@
-#DOCUMENTACIÓN
+# DOCUMENTACIÓN
                         
-##Página Sostenible en GitHub Pages             
+## Página Sostenible en GitHub Pages             
 
 
 1. PLANIFICACIÓN DEL CONTENIDO
