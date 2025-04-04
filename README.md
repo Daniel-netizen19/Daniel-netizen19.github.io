@@ -1,51 +1,40 @@
-# Daniel-netizen19.github.io
-- Bienvenidos a la WEB Sostenible
++---------------------------------------------------------------+
+|                        DOCUMENTACIÓN                          |
+|                 Página Sostenible en GitHub Pages             |
++---------------------------------------------------------------+
 
-# Proyecto de Sostenibilidad 🌱
+1. PLANIFICACIÓN DEL CONTENIDO
+   - Definir el propósito de la página: Página sobre sostenibilidad.
+   - Seleccionar el contenido: Artículos, datos, imágenes y recursos relacionados.
+   - Crear una estructura clara de la página: Páginas de inicio, sobre, contacto, etc.
 
-Este proyecto está diseñado para promover prácticas sostenibles en el desarrollo de software y la tecnología. Nos enfocamos en minimizar el impacto ambiental mientras maximizamos la eficiencia y el acceso.
+2. DESARROLLO DEL SITIO WEB
+   - HTML: Crear las páginas estáticas con el contenido estructurado.
+   - CSS: Diseño limpio, accesible y responsivo.
+   - JavaScript: Interacciones dinámicas ligeras y optimizadas.
 
-## Objetivos 🌍
+3. OPTIMIZACIÓN PARA SOSTENIBILIDAD
+   - Optimización de imágenes: Reducir el tamaño sin perder calidad.
+   - Minificación de código: Minimizar los archivos CSS y JS para tiempos de carga rápidos.
+   - Uso de fuentes web eficientes: Fuentes ligeras y rápidas de cargar.
+   - Diseño responsivo: Asegurarse de que la página se vea bien en dispositivos móviles.
 
-- Reducir la huella de carbono en aplicaciones web.
-- Promover el uso de tecnologías verdes.
-- Concienciar sobre la sostenibilidad en la industria tecnológica.
+4. USO DE GITHUB PAGES
+   - Crear un repositorio en GitHub.
+   - Subir los archivos del sitio web al repositorio.
+   - Activar GitHub Pages en las configuraciones del repositorio.
+   - Usar un dominio propio o el dominio `usuario.github.io`.
 
-## Características del Proyecto ✅
+5. ASEGURAR LA SOSTENIBILIDAD A LARGO PLAZO
+   - Documentación: Crear archivo README explicando el funcionamiento y contribución.
+   - Automatización: Usar GitHub Actions para despliegue de cambios.
+   - Licencia abierta: Incluir licencia abierta como MIT o GPL.
 
-- **Optimización energética**: Diseñamos soluciones que consumen menos energía.
-- **Educación**: Recursos y guías para comprender y aplicar prácticas sostenibles.
-- **Colaboración global**: Impulsamos la participación de desarrolladores de todo el mundo.
+6. MONITOREO Y MANTENIMIENTO
+   - Revisar el desempeño con herramientas como Google Lighthouse.
+   - Mantener el contenido actualizado con buenas prácticas sostenibles.
+   - Realizar mejoras continuas en accesibilidad y rendimiento.
 
-## Cómo Contribuir 🤝
-
-1. Realiza un fork del repositorio.
-2. Trabaja en tu contribución.
-3. Envía un pull request para revisión.
-
-## Recursos 📚
-
-- [Principios de tecnología sostenible](https://www.sustainable.tech/principles).
-- [Guías de Greencoding](https://www.green-coding.org).
-- [Sostenibilidad en el desarrollo web](https://www.websostenible.com).
-
-## Licencia 📝
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-## Porque es sostenible esta página web
-
-- **Gratis:** GitHub Pages ofrece alojamiento gratuito para sitios web estáticos.
-
-- **Eficiencia de recursos:** Está optimizado para alojar contenido estático, lo que reduce el consumo de recursos.
-
-- **Energía renovable:** GitHub opera con energía renovable en sus centros de datos.
-
-- **Desarrollo colaborativo:** Fomenta el trabajo en equipo y la colaboración en proyectos de código abierto.
-
-- **Mantenimiento sencillo:** Los sitios estáticos requieren menos mantenimiento y recursos continuos.
-
----
-
-¡Tu apoyo ayuda a construir un futuro más verde! 💚
- 
++---------------------------------------------------------------+
+|  Fin de la documentación sobre la página sostenible en GitHub |
++---------------------------------------------------------------+
