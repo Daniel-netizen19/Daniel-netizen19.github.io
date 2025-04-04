@@ -1,7 +1,7 @@
-+---------------------------------------------------------------+
-|                        DOCUMENTACIÓN                          |
-|                 Página Sostenible en GitHub Pages             |
-+---------------------------------------------------------------+
+#DOCUMENTACIÓN
+                        
+##Página Sostenible en GitHub Pages             
+
 
 1. PLANIFICACIÓN DEL CONTENIDO
    - Definir el propósito de la página: Página sobre sostenibilidad.
